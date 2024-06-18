@@ -1,6 +1,6 @@
 import unittest
 from python_lang import *
-from TestUtils import TestUtils  # Assuming you have a TestUtils class for Yaksha
+from test.TestUtils import TestUtils  # Assuming you have a TestUtils class for Yaksha
 import warnings
 
 
